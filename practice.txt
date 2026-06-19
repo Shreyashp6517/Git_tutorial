@@ -1,0 +1,22 @@
+New line
+The vi editor is a powerful text editor in Unix and Linux systems New word at the end.
+It was created by Bill Joy in 1976 and is still widely used today.
+Added new line below using o.
+Added new line above using O
+Vi has two main modes: command mode and insert mode.
+In command mode, you can navigate and manipulate text without typing.
+In insert mode, you can type and edit text like a normal editor.
+
+Common vi commands include:
+i - insert text before cursor
+a - append text after cursor
+dd - delete entire line
+yy - copy entire line
+p - paste copied text
+u - undo last change
+:w - save file
+:q - quit vi
+:wq - save and quit
+
+Learning vi takes practice but becomes very fast once you memorize the commands.
+Many system administrators prefer vi because it's available on every Unix system.
