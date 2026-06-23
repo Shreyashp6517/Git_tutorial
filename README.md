@@ -1,1 +1,1 @@
-# This is a readme file writen using vim
+# This is a readme file written using vim

@@ -1,0 +1,5 @@
+Hello, this is a practice file for vi editor.
+I am learning vi commands.
+vi is powerful but takes practice.
+Line 4 of the file.
+Line 10 of the file.
